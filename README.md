@@ -1,4 +1,4 @@
-# fjcsa.github.io
+# FRONTIERS FOR JUST CITIES SOUTH ASIA
 A network for and by Early Career Researchers(ECRs) from South Asia, working across the region on issues of urban governance in the Global South.
 <img width="760" height="435" alt="image" src="https://github.com/user-attachments/assets/4273d401-46fe-4f7f-b651-71d4edddd912" />
 Bringing South Asian unique perspectives and positionalities to reclaim space in global urban discourses
@@ -27,6 +27,5 @@ Collaborative pieces
 <img width="708" height="253" alt="image" src="https://github.com/user-attachments/assets/54324349-c5ee-4a30-a1ae-8e02d4eb7915" />
 MEET THE EXECUTIVE TEAM<img width="858" height="123" alt="image" src="https://github.com/user-attachments/assets/e8f8db54-12a0-4ab3-a717-f16d36cb62be" />
 
-<img width="1958" height="733" alt="image" src="https://github.com/user-attachments/assets/57e89980-b7af-4890-a290-45fe6cc6dd5c" />
+<img width="1958" height="735" alt="image" src="https://github.com/user-attachments/assets/48cf2469-7631-4465-a05d-92e9baf79808" />
 
-<img width="244" height="244" alt="image" src="https://github.com/user-attachments/assets/0ed0e500-9b0b-4e7c-8744-1866c4f32f0c" />
