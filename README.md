@@ -1,4 +1,4 @@
-# FRONTIERS FOR JUST CITIES SOUTH ASIA
+# FRONTIERS FOR JUST CITIES IN SOUTH ASIA
 A network for and by Early Career Researchers(ECRs) from South Asia, working across the region on issues of urban governance in the Global South.
 <img width="760" height="435" alt="image" src="https://github.com/user-attachments/assets/4273d401-46fe-4f7f-b651-71d4edddd912" />
 Bringing South Asian unique perspectives and positionalities to reclaim space in global urban discourses
