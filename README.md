@@ -28,3 +28,5 @@ Collaborative pieces
 MEET THE EXECUTIVE TEAM<img width="858" height="123" alt="image" src="https://github.com/user-attachments/assets/e8f8db54-12a0-4ab3-a717-f16d36cb62be" />
 
 <img width="1958" height="733" alt="image" src="https://github.com/user-attachments/assets/57e89980-b7af-4890-a290-45fe6cc6dd5c" />
+
+<img width="244" height="244" alt="image" src="https://github.com/user-attachments/assets/0ed0e500-9b0b-4e7c-8744-1866c4f32f0c" />
